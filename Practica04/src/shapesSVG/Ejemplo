@@ -1,0 +1,28 @@
+package shapes;
+public class Circle{
+    private double radio;
+    private Vector2 centro;
+    private double area;
+
+    public Circle(){
+        this.radio = 1;
+        this.centro = new Vector2(0, 0);
+        this.area = Math.PI;
+    }
+
+    public Circle(Vector2, centro, dobule radio={
+        this.centro = centro;
+        this.radio = radio;
+        this.area = Math.Pi * this.radio * this.radio;
+
+    }
+
+    public doible getArea(){
+        return this.area;
+    }
+
+    public Strign toSVG(){
+        //buscar svg Circle
+        return "<circle cx=´"50"´ + this.centro.x + cy=´"40"´ + this.centroy...
+    }
+}
