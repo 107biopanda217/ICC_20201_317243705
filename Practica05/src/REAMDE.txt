@@ -1,0 +1,17 @@
+
+		INTRUCCIONES DE "CONTROL"
+
+	El programa Control.java se compila de la siguiente forma:	
+		1.- Abrir, desde una terminal, la carpeta donde se ubica el programa, en este caso, Práctica05.
+		2.- Escribir: "javac Control.java".
+	Ahora, para ejecutar el programa:
+		3.- Escribir: "java Control".
+	
+	
+		DUDAS 
+	Profesor, yo no entiendo porqué, al ejecutar el programa, aparecen ceros (0) y dice que P3 y P4 están mal. 
+	Además, quisiera aprender a hacer las pruebas o el main, ya que no tengo idea de cómo usted las hace y porqué 
+	las hace de formas diferentes, algunas como si fueran clases y otras que parecen texto como la de esta práctica.
+
+	GRACIAS(Andrea).
+
